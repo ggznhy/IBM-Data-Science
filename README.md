@@ -1,2 +1,1 @@
-# applied-data-science-capstone
-https://www.coursera.org/learn/applied-data-science-capstone/home/info
+https://www.coursera.org/professional-certificates/ibm-data-science
